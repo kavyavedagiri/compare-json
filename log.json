@@ -1,0 +1,210 @@
+{
+ "nodes": {
+  "0": {
+   "name": {
+    "type": "updated",
+    "updated": " Asia."
+   },
+   "uri": {
+    "type": "created",
+    "updated": "bn:00010203n"
+   }
+  },
+  "10": {
+   "uri": {
+    "type": "updated",
+    "updated": "bn:0004917910"
+   }
+  },
+  "20": {
+   "id": {
+    "type": "updated",
+    "updated": 21
+   },
+   "name": {
+    "type": "updated",
+    "updated": "President_of_Singapore"
+   },
+   "uri": {
+    "type": "updated",
+    "updated": "bn:02858702n"
+   }
+  },
+  "21": {
+   "id": {
+    "type": "updated",
+    "updated": 22
+   },
+   "name": {
+    "type": "updated",
+    "updated": "Mexico"
+   },
+   "uri": {
+    "type": "updated",
+    "updated": "bn:00054693n"
+   }
+  },
+  "22": {
+   "id": {
+    "type": "updated",
+    "updated": 23
+   },
+   "name": {
+    "type": "updated",
+    "updated": "Halimah_Yacob"
+   },
+   "uri": {
+    "type": "updated",
+    "updated": "bn:02038430n"
+   }
+  },
+  "23": {
+   "id": {
+    "type": "updated",
+    "updated": 24
+   },
+   "name": {
+    "type": "updated",
+    "updated": "Singapore_Strait"
+   },
+   "uri": {
+    "type": "updated",
+    "updated": "bn:00850435n"
+   }
+  },
+  "24": {
+   "id": {
+    "type": "updated",
+    "updated": 25
+   },
+   "name": {
+    "type": "updated",
+    "updated": ".sg"
+   },
+   "uri": {
+    "type": "updated",
+    "updated": "bn:00131850n"
+   }
+  },
+  "25": {
+   "id": {
+    "type": "updated",
+    "updated": 26
+   },
+   "name": {
+    "type": "updated",
+    "updated": "United_Kingdom"
+   },
+   "uri": {
+    "type": "updated",
+    "updated": "bn:00013173n"
+   }
+  },
+  "26": {
+   "id": {
+    "type": "updated",
+    "updated": 27
+   },
+   "name": {
+    "type": "updated",
+    "updated": "Vietnam"
+   },
+   "uri": {
+    "type": "updated",
+    "updated": "bn:00004315n"
+   }
+  },
+  "27": {
+   "id": {
+    "type": "updated",
+    "updated": 28
+   },
+   "name": {
+    "type": "updated",
+    "updated": "Japan"
+   },
+   "uri": {
+    "type": "updated",
+    "updated": "bn:00047985n"
+   }
+  },
+  "49": {
+   "type": "deleted"
+  },
+  "50": {
+   "type": "deleted"
+  }
+ },
+ "links": {
+  "0": {
+   "source": {
+    "type": "updated",
+    "updated": 4
+   },
+   "target": {
+    "type": "updated",
+    "updated": 25
+   }
+  },
+  "6": {
+   "source": {
+    "type": "updated",
+    "updated": 8
+   }
+  },
+  "18": {
+   "source": {
+    "type": "updated",
+    "updated": 12
+   }
+  },
+  "25": {
+   "source": {
+    "type": "updated",
+    "updated": 4
+   }
+  },
+  "31": {
+   "source": {
+    "type": "updated",
+    "updated": 22
+   }
+  },
+  "39": {
+   "source": {
+    "type": "updated",
+    "updated": 12
+   }
+  },
+  "40": {
+   "source": {
+    "type": "updated",
+    "updated": 12
+   }
+  },
+  "42": {
+   "source": {
+    "type": "updated",
+    "updated": 12
+   }
+  },
+  "45": {
+   "type": "deleted"
+  },
+  "46": {
+   "type": "deleted"
+  },
+  "47": {
+   "type": "deleted"
+  },
+  "48": {
+   "type": "deleted"
+  },
+  "49": {
+   "type": "deleted"
+  },
+  "50": {
+   "type": "deleted"
+  }
+ }
+}
